@@ -1,0 +1,11 @@
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\bin\Debug\ReadPLCVariables.exe.config
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\bin\Debug\ReadPLCVariables.exe
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\bin\Debug\ReadPLCVariables.pdb
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\bin\Debug\TwinCAT.Ads.dll
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\obj\Debug\ReadPLCVariables.csprojAssemblyReference.cache
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\obj\Debug\Sample06.Form1.resources
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\obj\Debug\ReadPLCVariables.csproj.GenerateResource.cache
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\obj\Debug\ReadPLCVariables.csproj.CoreCompileInputs.cache
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\obj\Debug\ReadPLCVariables.csproj.CopyComplete
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\obj\Debug\ReadPLCVariables.exe
+D:\Customers\Shafir\Shatli\master\19_2_2020\Shafir_Shtali\PLC\Example\TwinCATADS_Sample06\TwinCAT3\obj\Debug\ReadPLCVariables.pdb
